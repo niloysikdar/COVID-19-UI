@@ -1,6 +1,8 @@
 # COVID_19
 
-A new Flutter project.
+A new Flutter project for COVID-19 application UI .
+
+<img src="assets/screenshots/page1.PNG" height="500">  <img src="assets/screenshots/page2.PNG" height="500">
 
 ## Getting Started
 
